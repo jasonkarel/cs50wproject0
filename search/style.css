@@ -1,0 +1,66 @@
+.googlecenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.category {
+    text-align: right;
+}
+.advtxt {
+    
+    color: #d93025;
+    font-size: 20px;
+    margin: 25px 35px;
+}
+.findpages {
+    color: grey;
+    font-size: 20px;
+    margin: 25px 35px;
+}
+.advlist {
+    margin-left: 10px;
+    margin: 25px 35px;
+    
+}
+.line {
+    border-bottom: 1px solid #c0c0c0;
+}
+.category3 {
+    text-align: right;
+    background-color: rgb(184, 184, 184);
+}
+.tbox{
+    width: 30%;
+    border-radius: 1px;
+    border: 1px solid #d9d9d9;
+    border-top: 1px solid #c0c0c0;
+    font-size: 13px;
+    height: 25px;
+    padding: 1px 8px;
+}
+.tbox:hover{
+    cursor: pointer;
+    border-color: blue;
+}
+.tboxs:hover{
+    cursor: pointer;
+    border-color:blue;
+}
+.google3 {
+    background-color: green;
+                display: grid;
+            }
+.imgSrc {
+    color: rgb(175, 175, 175);
+    text-align: center;
+}
+.button {
+    background-color: rgb(37, 112, 250);
+    color: white;
+    margin-left: 555px;
+}
+.act {
+    
+    text-align: center;
+}
